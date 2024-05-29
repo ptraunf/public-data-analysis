@@ -10,5 +10,5 @@ jupyter notebook
 ```
 
 ## TODO:
- - [ ] Pre-commit hook: clean output from notebooks
+ - [x] ~~Pre-commit hook~~ Git Filter: clean output from notebooks
 
